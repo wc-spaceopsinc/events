@@ -1,11 +1,1 @@
-{
-    "body": [
-        {
-            "Kickoff Event": "Kickoff Event",
-            "2025-05-30T07:00:00Z": "2025-05-30T07:00:00Z",
-            "2025-05-30T08:00:00Z": "2025-05-30T08:00:00Z",
-            "Phoenix, Arizona, United States": "Phoenix, Arizona, United States",
-            "<p>PowerAutomate Flow Test</p>": "<p>PowerAutomate Flow Test</p>"
-        }
-    ]
-}
+[{"GITHUB Test":"GITHUB Test","2025-05-30T08:00:00Z":"2025-05-30T08:00:00Z","2025-05-30T09:00:00Z":"2025-05-30T09:00:00Z","Caesars Palace, 3570 Las Vegas Boulevard South, Las Vegas, NV 89109, United States":"Caesars Palace, 3570 Las Vegas Boulevard South, Las Vegas, NV 89109, United States","<p>Testing Powerautomate</p>":"<p>Testing Powerautomate</p>"}]
