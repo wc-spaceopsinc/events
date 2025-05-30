@@ -1,1 +1,11 @@
-[]
+{
+    "body": [
+        {
+            "Kickoff Event": "Kickoff Event",
+            "2025-05-30T07:00:00Z": "2025-05-30T07:00:00Z",
+            "2025-05-30T08:00:00Z": "2025-05-30T08:00:00Z",
+            "Phoenix, Arizona, United States": "Phoenix, Arizona, United States",
+            "<p>PowerAutomate Flow Test</p>": "<p>PowerAutomate Flow Test</p>"
+        }
+    ]
+}
